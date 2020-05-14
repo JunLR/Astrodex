@@ -1,9 +1,13 @@
 # FP-contextual-visualization
 # Astrodex Mappa Galaxiae
 An Interactive Online Codex of Stars Based on the HYG Star Catalog Database
+
 Project link: https://junlr.github.io/Astrodex/project
+
 Website: https://junlr.github.io/Astrodex/
+
 Paper: https://drive.google.com/file/d/1d77IsUxXU6myvfxHIsEfhZ8vw8DNTKkB/view?usp=sharing
+
 Video: https://youtu.be/5qBPBKarNQ8
 
 
